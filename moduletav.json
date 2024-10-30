@@ -3,7 +3,7 @@
   "title": "Auto Hide Buttons for Players",
   "description": "Esconde botões desnecessários para jogadores na tela de login",
   "version": "1.0.0",
-  "author": "Luiz Barros BR",
+  "author": "luiz-cavalcanti",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
   "scripts": ["script.js"],
