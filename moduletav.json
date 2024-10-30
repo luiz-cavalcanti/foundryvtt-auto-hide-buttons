@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
   "scripts": ["script.js"],
-  "manifest": "https://raw.githubusercontent.com/luiz-cavalcanti/foundryvtt-auto-hide-buttons/main/module.json",
-  "download": "https://raw.githubusercontent.com/luiz-cavalcanti/foundryvtt-auto-hide-buttons/main/script.js",
+  "manifest": "https://raw.githubusercontent.com/luiz-cavalcanti/foundryvtt-auto-hide-buttons/main/moduletavs.json",
+  "download": "https://raw.githubusercontent.com/luiz-cavalcanti/foundryvtt-auto-hide-buttons/main/scripttavs.js",
   "license": "LICENSE"
 }
