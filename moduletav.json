@@ -1,0 +1,13 @@
+{
+  "name": "auto-hide-buttons",
+  "title": "Auto Hide Buttons for Players",
+  "description": "Esconde botões desnecessários para jogadores na tela de login",
+  "version": "1.0.0",
+  "author": "Luiz Barros BR",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "10",
+  "scripts": ["script.js"],
+  "manifest": "https://raw.githubusercontent.com/luiz-cavalcanti/foundryvtt-auto-hide-buttons/main/module.json",
+  "download": "https://raw.githubusercontent.com/luiz-cavalcanti/foundryvtt-auto-hide-buttons/main/script.js",
+  "license": "LICENSE"
+}
